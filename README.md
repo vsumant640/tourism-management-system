@@ -60,6 +60,10 @@ Administrators can:
 - Generate Reports
 
 ---
+## 📄 Project Documentation
+
+👉 [📥 View Project Report](./Sumant-Capstone-PDF.pdf)
+
 
 ## 🛠️ Technologies Used
 
